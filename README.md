@@ -16,11 +16,11 @@ Than open Command Prompt as Administrator ,than enter the following commands:
 
 ```bash
 
-python -m pip install socket random time
+python3 -m pip install socket random time
 
 cd SCRIPT_PATH
 
-python -m DoS_Attack.py
+python3 -m DoS_Attack.py
 
 ```
 
@@ -38,10 +38,10 @@ Than in terminal:
 
 ```bash
 
-python -m pip install socket random time
+python3 -m pip install socket random time
 
 cd SCRIPT_PATH
 
-python -m DoS_Attack.py
+python3 -m DoS_Attack.py
 
 ```
