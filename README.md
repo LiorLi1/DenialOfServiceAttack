@@ -1,14 +1,14 @@
 # Denial Of Service Attack
  A simple Python script for executing DOS attacks on Apache servers.
 
+[Apache Server Setup Guide 1](https://www.alphr.com/set-up-local-web-server/)
+
+[Apache Server Setup Guide 2](https://www.maketecheasier.com/setup-local-web-server-all-platforms/)
+
 ## DISCLAIMER
 This code is for educational purposes only. Do not use for ill intent. I am not respnosible for any abuse or damage caused by this program.
 
 ## Setup and Usage For Windows
-
-[Apache Server Setup Guide 1](https://www.alphr.com/set-up-local-web-server/)
-
-[Apache Server Setup Guide 2](https://www.maketecheasier.com/setup-local-web-server-all-platforms/)
 
 Install Python 3.9 from [here](https://www.python.org/downloads/)
 
